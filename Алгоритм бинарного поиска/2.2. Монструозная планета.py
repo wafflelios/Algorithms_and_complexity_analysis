@@ -65,6 +65,7 @@ k каждого списка, было минимальным (Например
 3
 '''
 
+
 def main():
     legs_groups, arms_groups, amount = input().split()
     amount = int(amount)
