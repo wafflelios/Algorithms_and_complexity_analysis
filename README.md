@@ -4,7 +4,7 @@
 3. [Хэш-таблицы и хэш-функции](https://github.com/wafflelios/Algorithms_and_complexity_analysis/tree/main/Хэш-таблицы%20и%20хэш-функции)<br>
 4. [Cвязные списки](https://github.com/wafflelios/Algorithms_and_complexity_analysis/tree/main/Связные%20списки)<br>
 5. [Стэк и очередь](https://github.com/wafflelios/Algorithms_and_complexity_analysis/tree/main/Стэк%20и%20очередь)<br>
-6. Основы алгоритмов сортировки<br>
+6. [Основы алгоритмов сортировки](https://github.com/wafflelios/Algorithms_and_complexity_analysis/tree/main/Основы%20алгоритмов%20сортировки)<br>
 7. Рекурсивные алгоритмы<br>
 8. Сложность алгоритмов<br>
 9. Жадные алгоритмы<br>
