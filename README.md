@@ -1,7 +1,7 @@
 # Алгоритмы и анализ сложности 
 ## Python. 4 семестр
 2. [Алгоритм бинарного поиска](https://github.com/wafflelios/Algorithms_and_complexity_analysis/tree/main/Алгоритм%20бинарного%20поиска)<br>
-3. Хэш-таблицы и хэш-функции<br>
+3. [Хэш-таблицы и хэш-функции](https://github.com/wafflelios/Algorithms_and_complexity_analysis/tree/main/Хэш-таблицы%20и%20хэш-функции)<br>
 4. Связные списки<br>
 5. Стэк и очередь<br>
 6. Основы алгоритмов сортировки<br>
