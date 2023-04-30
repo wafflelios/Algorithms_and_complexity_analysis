@@ -6,7 +6,7 @@
 5. [Стэк и очередь](https://github.com/wafflelios/Algorithms_and_complexity_analysis/tree/main/Стэк%20и%20очередь)<br>
 6. [Основы алгоритмов сортировки](https://github.com/wafflelios/Algorithms_and_complexity_analysis/tree/main/Основы%20алгоритмов%20сортировки)<br>
 7. [Рекурсивные алгоритмы](https://github.com/wafflelios/Algorithms_and_complexity_analysis/tree/main/Рекурсивные%20алгоритмы)<br>
-8. Сложность алгоритмов<br>
+8. [Сложность алгоритмов](https://github.com/wafflelios/Algorithms_and_complexity_analysis/tree/main/Сложность%20алгоритмов)<br>
 9. Жадные алгоритмы<br>
 10. Деревья. Двоичные деревья поиска<br>
 11. Деревья. Обход в ширину и глубину<br>
