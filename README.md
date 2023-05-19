@@ -11,6 +11,7 @@
 10. [Деревья. Двоичные деревья поиска](https://github.com/wafflelios/Algorithms_and_complexity_analysis/tree/main/Деревья.%20Двоичные%20деревья%20поиска)<br>
 11. [Деревья. Обход в ширину и глубину](https://github.com/wafflelios/Algorithms_and_complexity_analysis/tree/main/Деревья.%20Обход%20в%20ширину%20и%20глубину)<br>
 12. [Куча(Неар)](https://github.com/wafflelios/Algorithms_and_complexity_analysis/tree/main/Куча(Неар))<br>
+ДП. Динамическое программирование
 13. Бор. Суффиксное дерево. В-дерево<br>
 14. Графы и рекурсивные алгоритмы<br>
 15. Топологическая сортировка и неочевидные применения графов<br>
