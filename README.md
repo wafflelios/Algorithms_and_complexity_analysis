@@ -10,7 +10,7 @@
 9. [Жадные алгоритмы](https://github.com/wafflelios/Algorithms_and_complexity_analysis/tree/main/Жадные%20алгоритмы)<br>
 10. [Деревья. Двоичные деревья поиска](https://github.com/wafflelios/Algorithms_and_complexity_analysis/tree/main/Деревья.%20Двоичные%20деревья%20поиска)<br>
 11. [Деревья. Обход в ширину и глубину](https://github.com/wafflelios/Algorithms_and_complexity_analysis/tree/main/Деревья.%20Обход%20в%20ширину%20и%20глубину)<br>
-12 [Куча(Неар)](https://github.com/wafflelios/Algorithms_and_complexity_analysis/tree/main/Куча(Неар))<br>
+12. [Куча(Неар)](https://github.com/wafflelios/Algorithms_and_complexity_analysis/tree/main/Куча(Неар))<br>
 13. Динамическое программирование
 14. Бор. Суффиксное дерево. В-дерево<br>
 15. Графы и рекурсивные алгоритмы<br>
