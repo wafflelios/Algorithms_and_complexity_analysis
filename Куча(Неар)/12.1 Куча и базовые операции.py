@@ -38,6 +38,7 @@ ok
 -100
 bye
 '''
+
 class Heap:
     def __init__(self):
         self.heap = list()
