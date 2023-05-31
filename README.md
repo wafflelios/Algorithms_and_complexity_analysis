@@ -12,7 +12,7 @@
 11. [Деревья. Обход в ширину и глубину](https://github.com/wafflelios/Algorithms_and_complexity_analysis/tree/main/Деревья.%20Обход%20в%20ширину%20и%20глубину)<br>
 12. [Куча(Неар)](https://github.com/wafflelios/Algorithms_and_complexity_analysis/tree/main/Куча(Неар))<br>
 13. [Динамическое программирование](https://github.com/wafflelios/Algorithms_and_complexity_analysis/tree/main/Динамическое%20програмирование)
-14. Бор. Суффиксное дерево. В-дерево
+14. [Бор. Суффиксное дерево. В-дерево](https://github.com/wafflelios/Algorithms_and_complexity_analysis/tree/main/Бор.%20Суффиксное%20дерево.%20В-дерево)
 15. Графы и рекурсивные алгоритмы
 16. Топологическая сортировка и неочевидные применения графов
 17. Алгоритмы сжатия информации
