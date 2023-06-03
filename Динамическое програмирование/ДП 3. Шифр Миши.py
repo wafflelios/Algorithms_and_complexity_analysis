@@ -30,3 +30,38 @@
 Кроме того, если длина зашифрованной подстроки больше или равна длине незашифрованной, то эту подстроку шифровать не нужно. Например: хихи шифровать не нужно, так как шифр (2(хи)) длиннее или для строки лалалахихилалала шифр будет следующим: 
 3(ла)хихи3(ла) (обратите внимание, что подстрока хихи не была зашифрована).
 '''
+
+TABLE = {}
+
+def create_table(string):
+    for string_id in range(len(string)):
+        left_id, right_id = 0, string_id
+        while right_id != len(string):
+            if left_id == right_id:
+                TABLE[(left_id, right_id)] = string[left_id:right_id + 1]
+            else:
+                substring = string[left_id:right_id + 1]
+                for divider in range(1, len(substring)):
+                    if len(substring) % divider == 0 and substring[0:divider] * (
+                            len(substring) // divider) == substring:
+                        substring = f'{len(substring) // divider}({TABLE[(left_id, left_id + divider - 1)]})'
+                        break
+                if substring == string[left_id: right_id + 1]:
+                    for middle_id in range(right_id - left_id - 1, -1, -1):
+                        new_str = TABLE[(left_id, left_id + middle_id)] + TABLE[(left_id + middle_id + 1, right_id)]
+                        if len(new_str) <= len(substring):
+                            substring = new_str
+                if len(substring) >= len(string[left_id: right_id + 1]):
+                    TABLE[(left_id, right_id)] = string[left_id: right_id + 1]
+                else:
+                    TABLE[(left_id, right_id)] = substring
+            right_id += 1
+            left_id += 1
+
+
+string = input()
+if len(string) <= 4:
+    print(string)
+else:
+    create_table(string)
+    print(TABLE[(0, len(string) - 1)])
