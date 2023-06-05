@@ -88,19 +88,13 @@ def main():
     strings = []
     for _ in range(strings_amount):
         strings.append(input().lower())
-    result = [9999999, 9999999]
     for index in range(strings_amount):
         position = trie.find_word(list(strings[index].split()))
-        if position and position < result[1]:
-            result[0], result[1] = index + 1, position
-        if result != [9999999, 9999999]:
+        if position:
+            print(index + 1, position)
             break
-    if result == [9999999, 9999999]:
-        print('Одобрено')
-    elif result == [1, 10002]:
-        print(f'{words} {strings}')
     else:
-        print(*result)
+        print('Одобрено')
 
 
 main()
